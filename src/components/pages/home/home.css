@@ -1,0 +1,184 @@
+.home-container{
+    padding: 2% 5% !important;
+}
+
+.home-title{
+    font-family: var(--font-noto);
+    font-size: 4rem;
+}
+
+.about-holder{
+    background-color: #f7644D;
+    border-top-left-radius: 100rem;
+    border-bottom-left-radius: 100rem;
+    padding: 10% 20%;
+    margin-right: -20% !important;
+    margin-top: 0%;
+}
+
+.about-title{
+    font-family: var(--font-noto);
+    color: white;
+    border-bottom: 4px solid white;
+    font-size: 4rem;
+}
+
+.mustard-btn{
+    background-color: rgb(245 157 66);
+    border: none;
+    padding: 1.4% 6%;
+    color: white;
+    border-radius: 100rem;
+    font-size: 1.2rem;
+}
+
+.grey-btn{
+    background-color: rgb(118, 145, 128);
+    border: none;
+    padding: 1.4% 6%;
+    color: white;
+    border-radius: 100rem;
+    font-size: 1.2rem;
+}
+
+.philosophy{
+    margin-top: 0%;
+}
+
+.border-holder{
+    background-color: rgb(39 38 37);
+    height: 5vh;
+}
+
+.sub-title{
+    font-family: var(--font-domine);
+    color: rgb(58, 36, 8);
+    font-size: 3rem !important;
+    border-bottom: 4px solid rgb(255, 160, 105);
+}
+
+.description{
+    font-size: 1.2rem;
+    margin-top: 5% !important;
+}
+
+.collab-title{
+    font-size: 4rem;
+    font-family: var(--font-noto);
+}
+
+.collab-sub-title{
+    color: rgba(0, 0, 0, 0.555);
+    font-weight: 200;
+}
+
+.collab-outline{
+    background-color: transparent;
+    border: 2px solid rgb(58, 36, 8);
+    padding: 1% 4%;
+    font-weight: 400;
+    margin-top: 4%;
+    transition: 0.3s ease-in-out;
+}
+
+.collab-outline:hover{
+    background-color: rgb(58, 36, 8);
+    color: var(--body-bg);
+    transition: 0.3s ease-in-out;
+}
+
+.project-solid{
+    background-color: #f7644D;
+    color: var(--body-bg);
+    border: none;
+    padding: 1.5% 5%;
+    font-weight: 300;
+    margin-top: 4%;
+    font-size: 1.4rem;
+    transition: 0.3s ease-in-out;
+}
+
+.why{
+    background-color: rgb(151, 184, 163);
+    padding: 2% 4%;
+}
+
+.why-title{
+    font-family: var(--font-noto);
+    font-size: 4rem;
+    color: white;
+}
+
+.number{
+    font-family: var(--font-noto);
+    font-size: 6rem;
+}
+
+.reason{
+    font-family: var(--font-domine);
+    font-weight: 100;
+    font-size: 2rem;
+}
+
+.work-title{
+    font-family: var(--font-noto);
+    font-size: 3.6rem;
+}
+
+.template-title{
+    font-weight: 100;
+}
+
+.project-name{
+    font-family: var(--font-noto);
+}
+
+@media only screen and (max-width: 600px) {
+    .home-title{
+        font-size: 3rem;
+        margin-top: 5%;
+    }
+    .about-title{
+        font-size: 3rem;
+    }
+    .about-holder{
+        padding-left: 40%;
+        padding-top: 25%;
+        padding-bottom: 25%;
+    }
+    .aboutme-text{
+        font-size: 0.9rem !important;
+    }
+    .collab-outline{
+        padding: 2% 5% !important;
+        margin-top: 8% !important;
+    }
+}
+
+@media only screen and (max-width: 980px) {
+    .about-holder{
+        padding-left: 40%;
+        padding-top: 25%;
+        padding-bottom: 25%;
+    }
+    .home-title{
+        z-index: 10;
+    }
+    .aboutme-text{
+        font-size: 0.9rem !important;
+    }
+}
+
+@media only screen and (max-width: 770px) {
+    .home-title{
+        font-size: 3.4rem;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .about-holder{
+        padding-left: 40%;
+        padding-top: 25%;
+        padding-bottom: 25%;
+    }
+}

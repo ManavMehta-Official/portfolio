@@ -1,0 +1,93 @@
+.navbar > .container {
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+  
+.navbar {
+    padding: 0% 5%;
+    margin-right: -2%
+}
+
+.navbar-brand{
+    font-family: 'Noto Serif Display', serif;
+    font-weight: 700;
+    font-size: 2.2rem !important;
+    color: var(--text-color) !important;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: var(--font-domine);
+    font-weight: 300;
+}
+
+.nav-toggle{
+    border: none !important;
+    outline: none !important;
+    outline-offset: none !important;
+}
+
+.nav-toggle-icon{
+    font-size: 1.6rem;
+    color: rgb(39 38 37);
+    opacity: 100% !important;
+}
+
+.nav-toggle:focus {
+    outline: none !important;
+    outline-offset: none !important;
+    box-shadow: none !important;
+}
+
+.offcanvas-body{
+    background-color: var(--body-bg);
+}
+
+.offcanvas-header{
+    background-color: var(--body-bg);
+}
+
+#offcanvasNavbarLabel{
+    font-family: var(--font-noto);
+    font-size: 2.4rem;
+    text-decoration: 4px solid #ff6640 underline !important;
+}
+
+.offcanvas-link{
+    color:rgb(39 38 37) !important;
+    font-size: 2.5rem;
+    margin-top: 8%;
+    display: inline-block;
+}
+
+.number-link{
+    font-size: 0.8rem !important;
+    transform: rotate(-90deg) !important;
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: 200;
+    margin-right: 5%
+}
+
+@media only screen and (max-width: 600px) {
+    .navbarToggle{
+        display: block;
+    }
+    .collapseMobile{
+        display: none !important;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .navbarToggle{
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .collapseMobile{
+        display: none !important;
+    }
+}
+

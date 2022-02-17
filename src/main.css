@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+:root{
+  --body-bg: rgb(250 243 231);
+  --text-color: rgb(39 38 37);
+  --font-domine: 'Domine', serif;
+  --font-noto: 'Noto Serif Display', serif;
+  --font-roboto: 'Roboto Slab', serif;
+}
+
+html{
+  scroll-behavior: smooth !important;
+  overflow-x: hidden !important;
+}
+
+body{
+  margin: 0% !important;
+  padding: 0% !important;
+  box-sizing: border-box;
+  overflow-x: hidden !important;
+  background-color: var(--body-bg) !important;
+}
+
+.borderHR{
+  width: 95% !important;
+  display: block;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+mark{
+  background-color: yellow !important;
+}
+
+.hr{
+  opacity: 100%;
+  margin-top: 8%;
+}
