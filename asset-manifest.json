@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.cc987114.css",
-    "main.js": "/portfolio/static/js/main.e63e9e00.js",
+    "main.css": "/portfolio/static/css/main.b2a64c85.css",
+    "main.js": "/portfolio/static/js/main.0bf65eba.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/img-holder.jpeg": "/portfolio/static/media/img-holder.2ddd49f5c5d9f3523db0.jpeg",
-    "static/media/img-holder1.jpeg": "/portfolio/static/media/img-holder1.d1ce3d2864780a7e78c9.jpeg",
+    "static/media/bhoomiseva.png": "/portfolio/static/media/bhoomiseva.9c6776a85ef66fdee682.png",
+    "static/media/vertical.jpeg": "/portfolio/static/media/vertical.da19868dbaf96cd31a09.jpeg",
+    "static/media/horizontal.jpeg": "/portfolio/static/media/horizontal.0c4f356a55e58cbd8a65.jpeg",
     "static/media/design-philosophy.png": "/portfolio/static/media/design-philosophy.9addee952a04b5688ffe.png",
     "index.html": "/portfolio/index.html",
-    "main.cc987114.css.map": "/portfolio/static/css/main.cc987114.css.map",
-    "main.e63e9e00.js.map": "/portfolio/static/js/main.e63e9e00.js.map",
+    "main.b2a64c85.css.map": "/portfolio/static/css/main.b2a64c85.css.map",
+    "main.0bf65eba.js.map": "/portfolio/static/js/main.0bf65eba.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc987114.css",
-    "static/js/main.e63e9e00.js"
+    "static/css/main.b2a64c85.css",
+    "static/js/main.0bf65eba.js"
   ]
 }
