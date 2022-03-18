@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7a1d821c.css",
-    "main.js": "/portfolio/static/js/main.b40d7140.js",
+    "main.css": "/portfolio/static/css/main.d42a4838.css",
+    "main.js": "/portfolio/static/js/main.2c6fc9b8.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/bhoomiseva.png": "/portfolio/static/media/bhoomiseva.9c6776a85ef66fdee682.png",
     "static/media/vigilate.png": "/portfolio/static/media/vigilate.860a17b23b04037439ec.png",
@@ -9,13 +9,14 @@
     "static/media/horizontal.jpeg": "/portfolio/static/media/horizontal.0c4f356a55e58cbd8a65.jpeg",
     "static/media/design-philosophy.png": "/portfolio/static/media/design-philosophy.9addee952a04b5688ffe.png",
     "static/media/ludisOstende.png": "/portfolio/static/media/ludisOstende.e30a6a3fe00eb974529e.png",
+    "static/media/img-halftone.png": "/portfolio/static/media/img-halftone.2b755217931b130bc31d.png",
     "index.html": "/portfolio/index.html",
-    "main.7a1d821c.css.map": "/portfolio/static/css/main.7a1d821c.css.map",
-    "main.b40d7140.js.map": "/portfolio/static/js/main.b40d7140.js.map",
+    "main.d42a4838.css.map": "/portfolio/static/css/main.d42a4838.css.map",
+    "main.2c6fc9b8.js.map": "/portfolio/static/js/main.2c6fc9b8.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a1d821c.css",
-    "static/js/main.b40d7140.js"
+    "static/css/main.d42a4838.css",
+    "static/js/main.2c6fc9b8.js"
   ]
 }
